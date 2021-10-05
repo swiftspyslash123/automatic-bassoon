@@ -1,0 +1,22 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container {
+    text-align: center;
+}
+
+#mycarousel {
+    background-color: #bfffeb;
+}
+
+#mycarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+h2 {
+    text-align: center;
+}
